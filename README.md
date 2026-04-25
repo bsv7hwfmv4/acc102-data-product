@@ -45,7 +45,7 @@ Once the dashboard renders in your browser, the following interactive workflows 
   * **Result:** Unfolds a detailed data table. Based on the active slider and category settings, this table isolates the exact records where profit fell below zero, providing management with a targeted list of high-risk orders for review.
 
 ## 6. Product link / Demo
-* **Live App**: [Insert Streamlit Link Here]
+* **Live App**: [https://acc102-data-appuct-zf2qwjvq9ypw82qrd9pnzj.streamlit.app/]
 * **Demo Video**: [Insert Mediasite Link Here]
 
 ## 7. Limitations & next steps
