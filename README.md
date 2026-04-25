@@ -46,7 +46,7 @@ Once the dashboard renders in your browser, the following interactive workflows 
 
 ## 6. Product link / Demo
 * **Live App**: [https://acc102-data-appuct-zf2qwjvq9ypw82qrd9pnzj.streamlit.app/]
-* **Demo Video**: [Insert Mediasite Link Here]
+* **Demo Video**: [https://video.xjtlu.edu.cn/Mediasite/Play/50dcba5141bf4e24a3d3f664199545691d]
 
 ## 7. Limitations & next steps
 * **Limitation**: This tool evaluates profitability on a strict, isolated per-transaction basis. It does not account for Customer Acquisition Cost (CAC). In reality, a loss-making first order might be a justified business expense if it secures a customer with a high long-term value.
